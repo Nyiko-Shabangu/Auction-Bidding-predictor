@@ -62,7 +62,7 @@ The project includes configuration for AWS deployment:
 git clone https://github.com/yourusername/vehicle-auction-analytics.git
 ```
 
-2. Install required packages
+2. Install the required packages
 ```bash
 pip install -r requirements.txt
 ```
@@ -75,17 +75,9 @@ python src/model_training.py
 ## 📝 Future Improvements
 - Implementation of API endpoints for real-time predictions
 - Integration of deep learning models for image-based vehicle analysis
-- Development of interactive dashboard for visualization
+- Development of an interactive dashboard for visualization
 - Addition of more sophisticated feature engineering techniques
 - Implementation of model monitoring and retraining pipeline
-
-## 📫 Contact
-Feel free to reach out for any questions or collaboration opportunities!
-
-[Your Name]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- Portfolio: [Your Portfolio Website]
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
